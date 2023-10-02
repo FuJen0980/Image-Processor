@@ -1,0 +1,52 @@
+{
+  "files": {
+    "cmpt120imageManip.py": [
+      {
+        "id": "d44f6009-6401-4bbe-bc2e-dce2482c6ef0",
+        "line": 188,
+        "version": 12447,
+        "index": 6129
+      }
+    ],
+    "cmpt120imageProjHelper.py": [
+      {
+        "id": "7afbbc89-51ad-4299-ae91-f770413c1fe1",
+        "line": 90,
+        "version": 7,
+        "index": 3645
+      }
+    ],
+    "main.py": [
+      {
+        "id": "a3780e2a-c93c-4b94-97ea-4cf5a169eaa4",
+        "line": 19,
+        "version": 8345,
+        "index": 534
+      },
+      {
+        "id": "e5311003-cfec-45e4-a166-e9979240e370",
+        "line": 30,
+        "version": 8345,
+        "index": 888
+      },
+      {
+        "id": "d00d39ee-481f-41aa-91ba-7a7c0362cad8",
+        "line": 147,
+        "version": 8345,
+        "index": 6065
+      },
+      {
+        "id": "2ba6766e-5695-4a01-b375-8315ea836a19",
+        "line": 186,
+        "version": 8345,
+        "index": 8206
+      },
+      {
+        "id": "221bc77b-2d03-4e8e-ab4a-ad18f301eafc",
+        "line": 192,
+        "version": 8345,
+        "index": 8583
+      }
+    ]
+  }
+}
